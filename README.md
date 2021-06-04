@@ -1,20 +1,16 @@
 # Akshay S Ram
 
-[![Linkedin Badge](https://img.shields.io/badge/Ajil5467-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/akshay-kumar-ms)
-[![Medium Badge](https://img.shields.io/badge/Ajil5467-30302f?style=flat&logo=medium)](https://medium.com/@ajiltu)
-[![Gmail Badge](https://img.shields.io/badge/ajiltu5467@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:msakshay04@gmail.com)
-<img src="https://komarev.com/ghpvc/?username=Ajil5467" alt="Ajil T U">
+[![Linkedin Badge](https://img.shields.io/badge/Akshay-kumar-ms-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/akshay-kumar-ms)
+[![Gmail Badge](https://img.shields.io/badge/msakshay04@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:msakshay04@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=Akshay-kumar-ms" alt="Akshay-kumar-ms">
 
 
 ## Hi there 👋,           
-##### I'm Ajil T U, currently a final year Computer Science undergrad from Government Engineering College Palakkad.
+##### I'm Akshay Kumar MS,curretly pursuing b.tech in Government Engineering College,Sreekrishnapuram
 ## 🧐 About
-- 🏄‍ I'm a full stack developer.
-- 🤝 I am looking forward to collaborate on projects.
-- 🌱 I’m currently learning Java.
-- 🤔 I’m looking for help with Machine Learning.
-- ⚡ Fun fact:- I don't use instagram ;)
-- 📫 How to reach me: mail me at [ajiltu5467@gmail.com](mailto:ajiltu5467@gmail.com)
+- 🏄‍ I'm a Python Developer.
+- 🤝 I'm looking forward to upskill myself by learning everyday.
+- 📫 How to reach me: mail me at [msakshay04@gmail.com](mailto:msakshay04@gmail.com-)
 ---
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ajil5467&show_icons=true&theme=merko)  
 
