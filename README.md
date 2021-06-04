@@ -12,7 +12,7 @@
 - 🤝 I'm looking forward to upskill myself by learning everyday.
 - 📫 How to reach me: mail me at [msakshay04@gmail.com](mailto:msakshay04@gmail.com-)
 ---
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ajil5467&show_icons=true&theme=merko)  
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshay-kumar-ms&show_icons=true&theme=merko)  
 
 ### Languages and Tools:
 
