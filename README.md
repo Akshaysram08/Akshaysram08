@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/Ajil5467-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/akshay-kumar-ms)
 [![Medium Badge](https://img.shields.io/badge/Ajil5467-30302f?style=flat&logo=medium)](https://medium.com/@ajiltu)
-[![Gmail Badge](https://img.shields.io/badge/ajiltu5467@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:ajiltu5467@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/ajiltu5467@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:msakshay04@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=Ajil5467" alt="Ajil T U">
 
 
