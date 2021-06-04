@@ -5,12 +5,13 @@
 <img src="https://komarev.com/ghpvc/?username=Akshay-kumar-ms" alt="Akshay-kumar-ms">
 
 
-## Hey Folks 👋,           
-##### I'm Akshay Kumar MS,curretly pursuing b.tech in Government Engineering College,Sreekrishnapuram
-## 🧐 About
-- 🏄‍ I'm a Python Developer.
-- 🤝 I'm looking forward to upskill myself by learning everyday.
-- 📫 How to reach me: mail me at [msakshay04@gmail.com](mailto:msakshay04@gmail.com-)
+## Hey Folks,           
+##### I'm Akshay Kumar MS,a computer science enthusiast who is curretly pursuing b.tech in Government Engineering College,Sreekrishnapuram
+## About
+- I'm a Python Developer.
+- I'm looking forward to upskill myself by learning everyday.
+- Coding my way to make the world a better place.
+-Mail me at [msakshay04@gmail.com](mailto:msakshay04@gmail.com-)
 ---
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshaysram08&show_icons=true&theme=merko)  
 
