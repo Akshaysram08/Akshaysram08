@@ -1,6 +1,6 @@
 # Akshay S Ram
 
-[![Linkedin Badge](https://img.shields.io/badge/Akshay-kumar-ms-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/akshay-kumar-ms-463a701b2/)
+[![Linkedin Badge](<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="akshay-kumar-ms-463a701b2" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/akshay-kumar-ms-463a701b2?trk=profile-badge">Akshay Kumar MS</a></div>)](https://www.linkedin.com/in/akshay-kumar-ms-463a701b2/)
 [![Gmail Badge](https://img.shields.io/badge/msakshay04@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:msakshay04@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=Akshay-kumar-ms" alt="Akshay-kumar-ms">
 
