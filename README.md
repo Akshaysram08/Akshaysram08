@@ -1,11 +1,11 @@
 # Akshay S Ram
 
-[![Linkedin Badge](https://img.shields.io/badge/Akshay-kumar-ms-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/akshay-kumar-ms)
+[![Linkedin Badge](https://img.shields.io/badge/Akshay-kumar-ms-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/akshay-kumar-ms-463a701b2/)
 [![Gmail Badge](https://img.shields.io/badge/msakshay04@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:msakshay04@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=Akshay-kumar-ms" alt="Akshay-kumar-ms">
 
 
-## Hi there 👋,           
+## Hey Folks 👋,           
 ##### I'm Akshay Kumar MS,curretly pursuing b.tech in Government Engineering College,Sreekrishnapuram
 ## 🧐 About
 - 🏄‍ I'm a Python Developer.
